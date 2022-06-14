@@ -146,8 +146,12 @@ h2{
 }
 .intro-text{
   color: #F2F2F2;
-  font-family: bely, sans-serif;
-  font-size: 3rem;
+  font-family: bely,serif;
+  font-size: 5rem;
+  font-weight: lighter;
+}
+.intro-text h3:nth-child(3){
+  color: #F23A29;
 }
 .slider{
   background: #9498A6;
