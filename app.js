@@ -5,3 +5,5 @@ tl.to(".slider", { y: "-100%", duration: 1}, "+=1");
 tl.to(".intro", {y: "-100%", duration: 1}, "-=1");
 tl.fromTo("header", {opacity: 0}, { opacity: 1, duration: 1})
 tl.fromTo("h1", {opacity: 0}, { opacity: 1, duration: 1}, "-=.7")
+
+// Text Stuff
